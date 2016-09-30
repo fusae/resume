@@ -423,3 +423,14 @@ Small Device Styles
   }
 
 }
+
+.edu table{
+    border: 0;
+}
+.edu table td{
+    border: 0;
+}
+
+.project dl dd{
+    font-style: normal;
+}
